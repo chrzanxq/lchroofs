@@ -31,7 +31,9 @@ body {
 	margin: auto;
 	font-size: 18px;
 	line-height: 1.9;
+	margin-top: 20px;
 }
+
 .carousel-inner:before {
 	content: '';
 	position: absolute;
@@ -141,3 +143,4 @@ body {
 		margin-bottom: 30px;
 	}
 }
+
